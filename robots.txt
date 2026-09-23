@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://6d75fb.cn/sitemap.xml
